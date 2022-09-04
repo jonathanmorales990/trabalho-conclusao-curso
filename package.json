@@ -1,0 +1,18 @@
+{
+  "name": "trabalho-conclusao-de-curso",
+  "version": "0.0.1",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scanner": "node main.js"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.18.0",
+    "request": "^2.88.2",
+    "sync-request": "^1.0.1"
+  }
+}
